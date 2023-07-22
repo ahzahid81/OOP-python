@@ -1,0 +1,8 @@
+highest = max(100,50,60,70,80,150,50)
+smallest = min(100,50,60,70,80,150,50)
+count = len([45,10])
+total = sum(100,50)
+print(highest)
+print(smallest)
+print(count)
+print(total)
