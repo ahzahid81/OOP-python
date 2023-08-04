@@ -1,3 +1,4 @@
+from set import *
 numbers = [10, 20, 30, 40, 50]
 print(numbers[-4:-1])
 
@@ -33,3 +34,6 @@ print(result)
 
 num = lambda a:a*a
 print(num(2**2))
+
+issubset()
+
